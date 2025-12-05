@@ -16,7 +16,16 @@
       "valor": 1500,
       "tipo": "AULA",
       "status": "ABERTO",
-      "descricao": "Maciano Dantas Peida bonitinho pros cria\n"
+      "descricao": "Maciano Dantas professor bonitinho do Ti"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Rivanildo Pires",
+      "email": "riva@gmail.com",
+      "password": "123456"
     }
   ]
 }
