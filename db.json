@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": "e876ceef-b302-4026-bc84-4f1268b9fa30",
+      "empregador": "d5b09606-fd63-40c9-9535-82aee4a32ebd",
+      "freelancer": null,
+      "valor": 15,
+      "tipo": "TRADUCAO",
+      "status": "ABERTO",
+      "descricao": "Transcrever 20 minutos de áudio sobre tecnologia."
+    },
+    {
+      "id": "fe005e8a-bdd5-4e0a-ae33-bfd9e9dd5162",
+      "empregador": "f75ec991-474c-482c-9257-db32939f49b1",
+      "freelancer": null,
+      "valor": 1500,
+      "tipo": "AULA",
+      "status": "ABERTO",
+      "descricao": "Maciano Dantas Peida bonitinho pros cria\n"
+    }
+  ]
+}
